@@ -1,0 +1,6 @@
+As a user I should be able to have my own list, that is linked to me in some way
+
+As a user I should be able to Create, Read, Update, and Delete my bucket list goals
+
+As a user I should be able to have sub-goals, which indicates progress towards the big picture (the bucket list wish)
+
